@@ -1,0 +1,25 @@
+{
+  "name": "Enem 2015 Webcrawler",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Webcrawler que mostra as questões comentadas do primeiro e segundo dia do enem 2015.",
+  "keywords": [],
+  "dependencies": {
+    "zombie": "4.0.8",
+    "cheerio": "*",
+    "nedb": "*",
+    "request": "*",
+    "simple-ssh": "*",
+    "ssh2": "*",
+    "request":"*"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "joelmarques",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "^5.0.1"
+  }
+}
